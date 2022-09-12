@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:columnCount="2"
+    android:layout_margin="12dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/frg"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="0"
+        android:layout_column="0"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment0_text" />
+
+    <Button
+        android:id="@+id/frg1"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment1_text" />
+
+    <Button
+        android:id="@+id/frg2"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment2_text" />
+
+    <Button
+        android:id="@+id/frg3"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment3_text" />
+
+    <Button
+        android:id="@+id/frg4"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment4_text" />
+
+    <Button
+        android:id="@+id/frg5"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment5_text" />
+
+    <Button
+        android:id="@+id/frg6"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment6_text" />
+
+    <Button
+        android:id="@+id/frg7"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="3"
+        android:layout_column="1"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment7_text" />
+
+    <Button
+        android:id="@+id/frg8"
+        android:layout_columnWeight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_row="4"
+        android:layout_column="0"
+        android:layout_margin="4dp"
+        android:onClick="onClick"
+        android:text="@string/fragment8_text" />
+</GridLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment1.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment2.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment3.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment4.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment5.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment6.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment7.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/fragment8.xml" value="0.3359375" />
+        <entry key="..\:/AndroidStudioProjects/avenue/vlad/FragmentDrill0/FragmentDrill/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FragmentDrill/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FragmentDrill/app/src/main/res/layout/fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/FragmentDrill/app/src/main/res/layout/main_fragment.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
